@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.chatservice.ChatServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T20:19:04" hostname="LENOVO" time="0.243">
+  <properties/>
+  <testcase name="sendMessage" classname="ru.netology.chatservice.ChatServiceTest" time="0.243"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
