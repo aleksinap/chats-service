@@ -53,8 +53,8 @@ fun main() {
 /*    service.getUnreadChatsCount(2).also(::println)
     service.getUnreadChatsCount(3).also(::println)*/
 //    println("After deleting")
-    println("Chats for user with id = 1: " + service.getChats(1))
-    println("Chats for user with id = 2: " + service.getChats(2))
-    println("Chats for user with id = 3: " + service.getChats(3))
-    println("Messages for chat with id = 1: " + service.getMessages(1, 1, 3))
+//    println("Chats for user with id = 1: " + service.getChats(1))
+//    println("Chats for user with id = 2: " + service.getChats(2))
+//    println("Chats for user with id = 3: " + service.getChats(3))
+//    println("Messages for chat with id = 1: " + service.getMessages(1, 1, 3))
 }
